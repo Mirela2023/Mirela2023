@@ -9,5 +9,5 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mirela2023&label=views&color=777777&style=flat-square" alt="Profile views" style="display:none;"/>
+  <img src="https://komarev.com/ghpvc/?username=Mirela2023&label=views&color=777777&style=flat-square" alt="Profile views" style="display:none;" width="0" height="0"/>
 </p>
